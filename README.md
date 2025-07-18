@@ -97,7 +97,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📬 Contact
 Have questions or suggestions? Reach out:
-* Maintainer: [koorosh.nrp] (email@example.com)
+* Maintainer: koorosh.nrp@gmail.com
 * GitHub: TranslatorBuddy Repository
 * Issues: Report bugs or suggest features via GitHub Issues
 
